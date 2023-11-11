@@ -2,7 +2,7 @@
 Axsoter tarjoaa ilmaisia Minecraft-palvelimia.
 
 ## Nettisivumme
-- Axsoterin [nettisivuilta](https://axsoter.com) löydät lisätietoa Axsoterista.
+- Axsoterin nettisivut sijaitsevat täällä [NETTISIVUT](https://axsoter.com) .
 
 ## Ota meihin yhteyttä
 - [Discord](https://discord.gg/F9fQz8FPHc)
