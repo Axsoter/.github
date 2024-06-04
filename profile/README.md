@@ -1,12 +1,16 @@
 # Axsoter
-Axsoter tarjoaa ilmaisia Minecraft-palvelimia.
+Axsoter on suomalainen hosting-palvelu joka tarjoaa ilmaisia Minecraft-palvelimia!
 
-## Kanavat
-- Axsoterin nettisivut sijaitsevat [TÄÄLLÄ](https://axsoter.com).
-- Meidän viralliselle Discord-palvelimelle voit liittyä [TÄSTÄ](https://axsoter.com/discord).
-- Axsoterin YouTube-kanavalle pääset [TÄSTÄ](https://www.youtube.com/@axsoter)
+## Meidän sosiaalisen median kanavat
+- [Twitter/X](https://twitter.com/axsoter)
+- [Instagram](https://www.instagram.com/axsoter)
+- [YouTube](https://www.youtube.com/@Axsoter)
+- [LinkedIn](https://fi.linkedin.com/company/axsoter)
+- [Zykel](https://zykel.net/profile?id=Axsoter)
 
 ## Ota meihin yhteyttä
-- [Discord](https://axsoter.com/discord)
-- [Nettisivuilta](https://axsoter.com)
+Meihin voi ottaa yhteyttä seuraavilla tavoilla:
+- **[Discord-palvelimelta](https://axsoter.com/discord)**
+- **[Meidän laskutusjärjestelmästämme](https://billing.axsoter.com/tickets)**
+<br><br>
 - [Sähköpostilla](mailto:contact@axsoter.com)
