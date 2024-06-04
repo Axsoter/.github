@@ -3,7 +3,7 @@ Axsoter tarjoaa ilmaisia Minecraft-palvelimia.
 
 ## Kanavat
 - Axsoterin nettisivut sijaitsevat [TÄÄLLÄ](https://axsoter.com).
-- Meidän viralliselle Discord-palvelimelle voit liittyä [TÄSTÄ](https://discord.gg/F9fQz8FPHc).
+- Meidän viralliselle Discord-palvelimelle voit liittyä [TÄSTÄ](https://axsoter.com/discord).
 - Axsoterin YouTube-kanavalle pääset [TÄSTÄ](https://www.youtube.com/@axsoter)
 
 ## Ota meihin yhteyttä
