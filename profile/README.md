@@ -10,7 +10,7 @@ Axsoter on suomalainen hosting-palvelu joka tarjoaa ilmaisia Minecraft-palvelimi
 
 ## Ota meihin yhteyttä
 Meihin voi ottaa yhteyttä seuraavilla tavoilla:
-- **[Discord-palvelimelta](https://axsoter.com/discord)**
+- **[Discord-palvelimelta (yhteisötuki)](https://axsoter.com/discord)**
 - **[Meidän laskutusjärjestelmästämme](https://billing.axsoter.com/tickets)**
 <br><br>
 - [Sähköpostilla](mailto:contact@axsoter.com)
