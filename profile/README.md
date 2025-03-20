@@ -7,7 +7,6 @@ Axsoter on suomalainen hosting-palvelu joka tarjoaa ilmaisia Minecraft-palvelimi
 - [Instagram](https://www.instagram.com/axsoter)
 - [YouTube](https://www.youtube.com/@Axsoter)
 - [LinkedIn](https://fi.linkedin.com/company/axsoter)
-- [Uptalkr](https://uptalkr.com/profile?id=Axsoter)
 
 ## Ota meihin yhteyttä
 Meihin voi ottaa yhteyttä seuraavilla tavoilla:
